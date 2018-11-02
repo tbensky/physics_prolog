@@ -1,6 +1,6 @@
 # Prolog in Physics
 
-This is the code that drives the work in the *paper.pdf* article, also posted here.
+This is the code that drives the work in the *paper.pdf* article, posted here.
 
 The prolog code attempts to tell you how to solve a 1D
 kinematics problem from a typical introductory physics
